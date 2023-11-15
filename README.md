@@ -1,6 +1,6 @@
 # Azure Linux VM Templates
 
-This repository contains Azure Resource Manager (ARM) templates for deploying Linux virtual machines on Microsoft Azure. Each branch corresponds to a different Linux distribution.
+Welcome to the Azure Linux VM Templates repository! This project provides Azure Resource Manager (ARM) templates for deploying Linux virtual machines on Microsoft Azure. Whether you're running Ubuntu, CentOS, Debian, or other popular Linux distributions, you'll find templates tailored for easy deployment.
 
 ## Quick Start
 
@@ -16,7 +16,6 @@ To deploy a VM using these templates, follow these steps:
 - `ubuntu`: ARM templates for deploying Ubuntu VMs.
 - `centos`: ARM templates for deploying CentOS VMs.
 - `debian`: ARM templates for deploying Debian VMs.
-- ...
 
 ## Contributing
 

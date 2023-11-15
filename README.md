@@ -9,8 +9,9 @@ NOTE: This project is a work in progress, or WIP, so content will be added over 
 To deploy a VM using these templates, follow these steps:
 
 1. Choose the branch for your desired Linux distribution.
-2. Open the `azuredeploy.json` file and modify parameters as needed.
-3. Deploy the template to Azure using [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/group/deployment?view=azure-cli-latest) or [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/new-azureps-module-az?view=azps-10.15.0).
+2. Open the `basic-azure-linux-deploy.json` file and modify parameters as needed.
+3. Customize parameters if needed (e.g., VM size, username, and password).
+4. Deploy the template to Azure using [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/group/deployment?view=azure-cli-latest) or [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/new-azureps-module-az?view=azps-10.15.0).
 
 ## Branches
 
